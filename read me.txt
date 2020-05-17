@@ -1,0 +1,54 @@
+# Earth_VEX-setup-windows
+
+This is a restaurant system windows application developed by Team VEX.
+
+
+First set up Environment as follows:
+
+1. Setting Up Environment for Andriod APP:
+
+i)    Download the APk from this git on your android device with version 7.0 or later(Make sure unknown sources is allowed for install)
+ii)   Now open command prompt on ur computer and hit ipconfig
+iii)  Under it copy the ip address as listed in IPV4 address
+iv)   Now open the application, you will get the ip address to edit. 
+v)    Edit exactly as following: "http://(YOUR IP ADDRESS HERE FROM STEP iii )/save3.php"
+vi)   Now click at "Hotel APP" at the top centre of your app.
+vii)  Turn On bluetooth and connect to the printer in your kitchen.
+
+2. Setting Up Environment for Windows APP:
+
+i)     Download EarthVEXfinal0.1 folder and run setup.exe under the folder Debug on your system.
+ii)    Go to: https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver15
+iii)   In the website above, you will see "Installation Media", Select SQL Server Express 2016
+iv)    Once the file is downloaded, run it.
+v)     Select Download Media from 3 options: Basic, custom and Download Media
+vi)    Select language as English, Select LocalDB(44 MB) under package option, and select your location and click "Download"
+vii)   Once Downloaded, open the file location and run the msi installer for LocalDD and install it.
+
+viii)  Now download and Install Xampp for windows from: https://www.apachefriends.org/download.html 
+ix)    Now download two zip files from this git: htdocs.zip and data.zip
+x)     Extract htdocs.zip, copy and replace this htdocs folder to C:\xampp(usually xampp is installed here)
+xi)    Extract data.zip, copy and replace this data foldeer to C:\xampp\mysql
+
+xii)   Download and install brave browser from: https://brave.com/download/
+
+You successfully set up all the dependencies for your system.
+That was amazing! Now you are all set and ready to go!
+
+Follow this:
+
+1. Run xampp and select start for Apache and Mysql
+2. Run Earth Desktop from your windows desktop
+3. Hit username and password
+4. Brave browser will open automatically, don't close it. Minimize it.
+
+5. Congrats, You did it! Happily Use your system for your restaurant.
+
+
+
+
+Team VEX always there for you:
+Sachin Giri
+Anis Shrestha
+Sunil Shah
+Suyogya Bhandari
