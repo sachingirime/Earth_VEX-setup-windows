@@ -17,7 +17,7 @@ vii)  Turn On bluetooth and connect to the printer in your kitchen.
 
 2. Setting Up Environment for Windows APP:
 
-i)     Download EarthVEXfinal0.1 folder and run setup.exe under the folder Debug on your system.
+i)     Download EarthVEX1.0 folder and run setup.exe under the folder Debug on your system.
 ii)    Go to: https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver15
 iii)   In the website above, you will see "Installation Media", Select SQL Server Express 2016
 iv)    Once the file is downloaded, run it.
